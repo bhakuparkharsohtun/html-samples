@@ -1,1 +1,7 @@
-3D
+{
+  "id": "Sample1",
+  "name": "Sample13D",
+  "desc": "3d animation slide",
+  "category": "3d",
+  "file": "samples/my-sample.html"
+}
