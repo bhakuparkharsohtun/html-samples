@@ -20,6 +20,13 @@
       "desc": "Three-slide pharma deck with donut chart.",
       "category": "interactive",
       "file": "html-samples/ai-in-medicines-3-slides.html"
+    },
+    {
+      "id": "Sample3",
+      "name": "Quarterly sales dashboard",
+      "desc": "Filter sample CSV data by quarter and region.",
+      "category": "data",
+      "file": "html-samples/csv-dashboard.html"
     }
   ]
 }
